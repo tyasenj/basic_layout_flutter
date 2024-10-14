@@ -112,4 +112,4 @@ kode ini membuat sebuah widget Stack yang menampilkan gambar profil berbentuk li
 
 <img src = 'assets/gambar_18.jpg'>
 
-<img src = 'assets/gambar_19.jpg'>
+
